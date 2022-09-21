@@ -12,6 +12,7 @@ export const GlobalStyle = createGlobalStyle`
 export const LinkS = styled(Link)`
     text-decoration: none;
     color: black;
+    font-size: 1.5rem;
 `
 export const Ul = styled.ul`
     display: flex;

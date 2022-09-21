@@ -1,9 +1,11 @@
 import React from "react";
+import * as S from "./styles/main.js"
+
 
 export default function Home(){
     return(
         <div>
-            <h1>Test</h1>
+            <S.H1>Consumindo a api do Harry Potter</S.H1>
         </div>
     )
 }
